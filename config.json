@@ -1,0 +1,18 @@
+{
+  "bot": {
+    "name": "Bot Agent",
+    "version": "0.1.0",
+    "debug": true
+  },
+  "plugins": {
+    "enabled": []
+  },
+  "api": {
+    "rate_limit": 100,
+    "timeout": 30
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "bot.log"
+  }
+}

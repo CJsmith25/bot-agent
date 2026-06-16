@@ -1,0 +1,26 @@
+# Bot Agent Dependencies
+
+# Core dependencies
+aiohttp>=3.8.0
+aiofiles>=0.8.0
+
+# NLP and AI
+# transformers>=4.20.0
+# torch>=1.12.0
+
+# Configuration
+pydantic>=1.10.0
+PyYAML>=6.0
+
+# Development
+pytest>=7.0.0
+pytest-asyncio>=0.20.0
+black>=22.0.0
+flake8>=5.0.0
+mypy>=0.990
+
+# Optional: uncomment as needed
+# openai>=0.25.0
+# discord.py>=2.0.0
+# slack-sdk>=3.19.0
+# python-telegram-bot>=20.0
